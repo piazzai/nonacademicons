@@ -20,10 +20,10 @@ There are two ways to use this font on your website. One is to download the `fon
 Alternatively, you can use the jsDelivr CDN to call the latest release from the content distribution network. In this case, you can add the following line to your HTML head without copying any folder:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/piazzai/nonacademicons@v1.0.0/css/nonacademicons.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/piazzai/nonacademicons@v1.0.1/css/nonacademicons.min.css" />
 ```
 
-At this point, icons can be deployed in a similar way as Font Awesome and Academicons ([go to instructions](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)), just remember the `nai` prefix. You can also resize them with classes like `nai-lg` or `nai-2x` ([read here](https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons)). For example:
+At this point, icons can be deployed in a similar way as Font Awesome and Academicons ([see instructions](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)), just remember the `nai` prefix. You can also resize them with classes like `nai-lg` or `nai-2x` ([read here](https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons)). For example:
 
 ```html
 <i class="nai nai-lichess nai-2x"></i>
