@@ -1,9 +1,3 @@
-/*
- *  Nonacademicons 1.0.0 by Michele Piazzai (https://github.com/piazzai)
- *  Fonts generated using FontForge - https://fontforge.org
- *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
- *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
- */
 @font-face {
   font-family: 'Nonacademicons';
   font-style: normal;
@@ -44,7 +38,7 @@
   content: "\e772";
 }
 
-/*  Duplication of the FontAwesome style classes using 'nai' in place of 'fa'. */
+/* duplication of fontawesome style classes using 'nai' instead of 'fa' */
 .nai-lg {
   font-size: 1.33333em;
   line-height: 0.75em;
