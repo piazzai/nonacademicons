@@ -1,6 +1,6 @@
 # nonacademicons
 
-Nonacademicons is an icon pack I developed for my personal website. It extends [Academicons](http://jpswalsh.github.io/academicons) with additional logos not necessarily related to academia. It can be used by itself or in conjunction with Academicons and/or [Font Awesome](https://github.com/FortAwesome/Font-Awesome). These fonts intentionally share the same metrics and can be used in a similar fashion.
+Nonacademicons is an icon pack I developed for my personal website. It extends [Academicons](http://jpswalsh.github.io/academicons) with additional logos, not necessarily related to academia. It can be used by itself or in conjunction with Academicons and/or [Font Awesome](https://github.com/FortAwesome/Font-Awesome). These fonts intentionally share the same metrics and can be used in a similar fashion.
 
 | Name                 | Image                                           |
 | -------------------- | ----------------------------------------------- |
@@ -20,7 +20,7 @@ There are two ways to use this font on your website. One is to download the `fon
 Alternatively, you can use the jsDelivr CDN to call the latest release from the content distribution network. In this case, you can add the following line to your HTML head without copying any folder:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/piazzai/nonacademicons@v1.0.1/css/nonacademicons.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/piazzai/nonacademicons@v1.0.0/css/nonacademicons.min.css" />
 ```
 
 At this point, icons can be deployed in a similar way as Font Awesome and Academicons ([see instructions](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)), just remember the `nai` prefix. You can also resize them with classes like `nai-lg` or `nai-2x` ([read here](https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons)). For example:
@@ -31,4 +31,4 @@ At this point, icons can be deployed in a similar way as Font Awesome and Academ
 
 ## Requests
 
-I am happy to incorporate additional icons if I can. Please submit your requests by [creating an issue](https://github.com/piazzai/arguelles/issues). Please provide a link to the image you need.
+I am happy to incorporate additional icons if I can. Please submit your request by [creating an issue](https://github.com/piazzai/arguelles/issues) with a link to the image you need.
