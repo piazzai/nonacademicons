@@ -31,4 +31,4 @@ At this point, icons can be deployed in a similar way as Font Awesome and Academ
 
 ## Requests
 
-I am happy to incorporate additional icons if I can. Please submit your requests at <https://github.com/piazzai/nonacademicons/issues> providing a link to the image you need.
+I am happy to incorporate additional icons if I can. Please submit your requests by [creating an issue](https://github.com/piazzai/arguelles/issues). Please provide a link to the image you need.
