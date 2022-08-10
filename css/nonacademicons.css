@@ -22,6 +22,14 @@
   line-height: 1;
 }
 
+.nai-uc3m-alt:before {
+  content: "\e767";
+}
+
+.nai-uc3m-alt-square:before {
+  content: "\e768";
+}
+
 .nai-uc3m:before {
   content: "\e769";
 }
