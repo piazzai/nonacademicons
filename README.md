@@ -2,16 +2,14 @@
 
 Nonacademicons is an icon pack I developed for my personal website. It extends [Academicons](http://jpswalsh.github.io/academicons) with additional icons, not necessarily related to academia. It can be used by itself or in conjunction with Academicons and/or [FontAwesome](https://github.com/FortAwesome/Font-Awesome), as the icons intentionally share the same metrics and can be used with similar CSS syntax.
 
-| Name                  | Image                                            |
-| --------------------- | ------------------------------------------------ |
-| `nai-aei`             | <img src="png/aei.png" width="50" />             |
-| `nai-nextgen`         | <img src="png/nextgen.png" width="50" />         |
-| `nai-uc3m-alt`        | <img src="png/uc3m-alt.png" width="50" />        |
-| `nai-uc3m-alt-square` | <img src="png/uc3m-alt-square.png" width="50" /> |
-| `nai-uc3m`            | <img src="png/uc3m.png" width="50" />            |
-| `nai-uc3m-square`     | <img src="png/uc3m-square.png" width="50" />     |
-| `nai-lichess`         | <img src="png/lichess.png" width="50" />         |
-| `nai-lichess-square`  | <img src="png/lichess-square.png" width="50" />  |
+| Name                  | Image                                           |
+| --------------------- | ----------------------------------------------- |
+| `nai-uc3m-alt`        | <img src="png/uc3m-alt.png" width="50" />           |
+| `nai-uc3m-alt-square` | <img src="png/uc3m-alt-square.png" width="50" />    |
+| `nai-uc3m`            | <img src="png/uc3m.png" width="50" />           |
+| `nai-uc3m-square`     | <img src="png/uc3m-square.png" width="50" />    |
+| `nai-lichess`         | <img src="png/lichess.png" width="50" />        |
+| `nai-lichess-square`  | <img src="png/lichess-square.png" width="50" /> |
 
 ## Usage
 

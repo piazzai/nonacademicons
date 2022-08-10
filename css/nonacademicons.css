@@ -22,14 +22,6 @@
   line-height: 1;
 }
 
-.nai-aei:before {
-  content: "\e765";
-}
-
-.nai-nextgen:before {
-  content: "\e766";
-}
-
 .nai-uc3m-alt:before {
   content: "\e767";
 }
