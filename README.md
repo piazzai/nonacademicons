@@ -4,8 +4,8 @@ Nonacademicons is an icon pack I developed for my personal website. It extends [
 
 | Name                  | Image                                           |
 | --------------------- | ----------------------------------------------- |
-| `nai-uc3m-alt`        | <img src="png/uc3m.png" width="50" />           |
-| `nai-uc3m-alt-square` | <img src="png/uc3m-square.png" width="50" />    |
+| `nai-uc3m-alt`        | <img src="png/uc3m-alt.png" width="50" />           |
+| `nai-uc3m-alt-square` | <img src="png/uc3m-alt-square.png" width="50" />    |
 | `nai-uc3m`            | <img src="png/uc3m.png" width="50" />           |
 | `nai-uc3m-square`     | <img src="png/uc3m-square.png" width="50" />    |
 | `nai-lichess`         | <img src="png/lichess.png" width="50" />        |
