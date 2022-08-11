@@ -22,6 +22,22 @@
   line-height: 1;
 }
 
+.nai-nextgen:before {
+  content: "\e763";
+}
+
+.nai-ptrr:before {
+  content: "\e764";
+}
+
+.nai-aei:before {
+  content: "\e765";
+}
+
+.nai-aei-alt:before {
+  content: "\e766";
+}
+
 .nai-uc3m-alt:before {
   content: "\e767";
 }
