@@ -22,6 +22,18 @@
   line-height: 1;
 }
 
+.nai-wos:before {
+  content: "\e760";
+}
+
+.nai-scopus:before {
+  content: "\e761";
+}
+
+.nai-orcid:before {
+  content: "\e762";
+}
+
 .nai-nextgen:before {
   content: "\e763";
 }
