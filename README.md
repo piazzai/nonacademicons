@@ -4,7 +4,7 @@ Nonacademicons is an icon pack I developed for my personal website. It extends [
 
 | Name                  | Image                                            |
 | --------------------- | ------------------------------------------------ |
-| `nai-wos`             | <img src="png/wos.png" width="50" />             |
+| `nai-clarivate`       | <img src="png/clarivate.png" width="50" />       |
 | `nai-scopus`          | <img src="png/scopus.png" width="50" />          |
 | `nai-orcid`           | <img src="png/orcid.png" width="50" />           |
 | `nai-nextgen`         | <img src="png/nextgen.png" width="50" />         |

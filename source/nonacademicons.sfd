@@ -1702,10 +1702,10 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: wos
+StartChar: clarivate
 Encoding: 26 59232 12
 Width: 512
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
