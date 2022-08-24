@@ -8,7 +8,7 @@ Nonacademicons is an icon pack I developed for my personal website. It extends [
 | `nai-scopus`          | <img src="png/scopus.png" width="50" />          |
 | `nai-orcid`           | <img src="png/orcid.png" width="50" />           |
 | `nai-nextgen`         | <img src="png/nextgen.png" width="50" />         |
-| `nai-ptrr`            | <img src="png/ptrr.png" width="50" />            |
+| `nai-prtr`            | <img src="png/prtr.png" width="50" />            |
 | `nai-aei`             | <img src="png/aei.png" width="50" />             |
 | `nai-aei-alt`         | <img src="png/aei-alt.png" width="50" />         |
 | `nai-uc3m-alt`        | <img src="png/uc3m-alt.png" width="50" />        |
