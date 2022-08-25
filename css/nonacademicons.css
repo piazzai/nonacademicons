@@ -22,6 +22,26 @@
   line-height: 1;
 }
 
+.nai-clarivate-square:before {
+  content: "\e755";
+}
+
+.nai-scopus-square:before {
+  content: "\e756";
+}
+
+.nai-orcid-square:before {
+  content: "\e757";
+}
+
+.nai-nextgen-square:before {
+  content: "\e758";
+}
+
+.nai-prtr-square:before {
+  content: "\e759";
+}
+
 .nai-clarivate:before {
   content: "\e760";
 }
@@ -46,7 +66,7 @@
   content: "\e765";
 }
 
-.nai-aei-alt:before {
+.nai-aei-square:before {
   content: "\e766";
 }
 
