@@ -7,9 +7,9 @@ Nonacademicons is an icon pack I developed for my personal website. It extends [
 | `nai-clarivate`        | <img src="png/clarivate.png" width="50" />        |
 | `nai-clarivate-square` | <img src="png/clarivate-square.png" width="50" /> |
 | `nai-scopus`           | <img src="png/scopus.png" width="50" />           |
-| `nai-scopus-square`    | <img src="png/scopus.png-square" width="50" />    |
+| `nai-scopus-square`    | <img src="png/scopus-square.png" width="50" />    |
 | `nai-orcid`            | <img src="png/orcid.png" width="50" />            |
-| `nai-orcid-square`     | <img src="png/orcid.png-square" width="50" />     |
+| `nai-orcid-square`     | <img src="png/orcid-square.png" width="50" />     |
 | `nai-nextgen`          | <img src="png/nextgen.png" width="50" />          |
 | `nai-nextgen-square`   | <img src="png/nextgen-square.png" width="50" />   |
 | `nai-prtr`             | <img src="png/prtr.png" width="50" />             |
