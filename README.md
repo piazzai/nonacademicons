@@ -1,5 +1,8 @@
 # nonacademicons
 
+> [!NOTE]
+> As of October 14, 2024, this icon pack is no longer maintained.
+
 Nonacademicons is an icon pack I developed for my personal website. It extends [Academicons](http://jpswalsh.github.io/academicons) with additional icons, not necessarily related to academia. It can be used by itself or in conjunction with Academicons and/or [FontAwesome](https://github.com/FortAwesome/Font-Awesome), as the icons intentionally share the same metrics and can be used with similar CSS syntax.
 
 | Name                   | Image                                             |
